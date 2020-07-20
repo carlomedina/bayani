@@ -59,3 +59,4 @@ target/
 
 .*
 !/.gitignore
+src/tests/outputs/*
